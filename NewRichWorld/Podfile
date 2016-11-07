@@ -1,0 +1,7 @@
+platform :ios, '9.0'
+
+target 'NewRichWorld' do
+  use_frameworks!
+  pod 'SlideMenuControllerSwift', :git => 'https://github.com/dekatotoro/SlideMenuControllerSwift' , :branch => 'swift2.3'
+
+end

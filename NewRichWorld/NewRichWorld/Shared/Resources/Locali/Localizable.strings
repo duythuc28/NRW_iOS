@@ -1,0 +1,263 @@
+//Generated IOS file for locale : fr
+
+"language"="fr";
+
+//APPLICATION_GLOBAL
+"app_name"="Chantier";
+"app_version"="1.0";
+
+//COMMON
+"common_cancel_button"="Annuler";
+"common_yes_button"="";
+"common_continue_button"="Continuer";
+"common_confirm_button"="";
+"common_ok"="D'accord";
+"common_ok_en"="OK";
+
+//CONSTRUCTION_SITE_SCREEN
+"construction_menu_button_pointer"="Pointer";
+"construction_menu_button_welcome"="Accueillir";
+"construction_menu_button_event"="Événements";
+"construction_menu_button_document"="Documents";
+"construction_button_change_image"="Modifier la photo";
+"construction_label_started_on"="Débuté le";
+"construction_label_displacement_zone"="Zone de déplacement";
+"construction_manager_screen_header_title"="Votre chantier en toute sécurité";
+"construction_manager_screen_recent_activities"="Activité récente";
+"construction_pointer_screen_header_title"="Pointer le personnel";
+"construction_pointer_screen_present_employees"="Collaborateurs présents";
+"construction_pointer_screen_select_all"="SÉLECTIONNER TOUT";
+"construction_pointer_screen_unselect_all"="TOUT DÉSELECTIONNER";
+"construction_pointer_screen_add_collaborator"="Ajout d'un collaborateur";
+"construction_pointer_screen_add_collaborator_cell"="Ajouter un collaborateur";
+"construction_pointer_screen_required_field"="* Champs obligatoires.";
+"construction_pointer_scree_name"="Nom*";
+"construction_pointer_screen_first_name"="Prénom*";
+"construction_pointer_screen_birth_date"="Date de naissance*";
+"construction_pointer_screen_add_picture"="Ajouter une photo";
+"construction_pointer_screen_btn_add_collaborator"="Ajouter le collaborateur";
+"construction_choose_image_title"="Ajouter une image";
+"construction_choose_image_take_photo"="Prendre une photo";
+"construction_choose_image_select_image"="Sélectionner une image";
+"construction_event_screen_reporting_an_event"="Déclarer un événement";
+"construction_event_screen_required_fields"="* Champs obligatoires.";
+"construction_event_screen_type"="Type*";
+"construction_event_screen_date"="Date*";
+"construction_event_screen_event_title"="Titre de l'événement*";
+"construction_event_screen_comments"="Commentaires";
+"construction_event_screen_images"="Images";
+"construction_event_screen_add_image"="Ajouter une image";
+"construction_event_screen_declare_this_event"="Déclarer cet événement";
+"construction_event_screen_error"="S'il vous plaît vérifier les champs marqués";
+"construction_event_screen_confirm_title"="L'événement a bien été enregistré !";
+"construction_event_screen_confirm_back_to_construction"="Retour au chantier";
+"construction_event_screen_confirm_back_to_events"="Revenir aux événements";
+"pointer_staff_function_guide"="Vous pouvez saisir des heures non complètes. Ex : si vous souhaitez indiquer une journée de 7h15, saisissez 7,25.";
+"pointer_staff_function_title"="Relevé d'heures";
+"pointer_staff_function_header_title"="Date de pointage";
+"pointer_staff_function_time_title_jour"="Jour";
+"pointer_staff_function_time_title_nuit"="Nuit";
+"pointer_staff_function_time_title_dont_intemperies"="Dont intempéries";
+"pointer_staff_function_time_title_dont_panne"="Dont panne";
+"pointer_button_validate"="Valider la présence";
+"construction_pointer_screen_btn_back_to_site"="Retour au chantier";
+"construction_pointer_screen_confirm_message"="Le pointage a bien été enregistré !";
+"construction_document_data_empty"="There is currently no document registered for this site. Go to the <a href=\"https://www.google.com\">e-prevention space to add.</a>";
+"construction_document_title"="Documents du chantier";
+"construction_event_title"="Événements";
+"construction_event_filter_title"="Afficher :";
+"construction_event_filter_data_1"="Tout";
+"construction_event_filter_data_2"="Bon geste";
+"construction_event_filter_data_3"="Constat";
+"construction_event_filter_data_4"="Quart d’heure sécurité";
+"construction_event_filter_data_5"="Visite extérieure";
+"construction_event_filter_data_6"="Panne/défaillance/casse";
+"construction_event_filter_data_7"="Incident/Presqu’accident";
+"construction_event_filter_data_8"="Autre";
+"construction_event_no_item"="Il n’y a actuellement aucun événement enregistré pour ce chantier.\n\nVous avez remarqué un bon geste ? Un retour d'expérience vous semble bénéfique pour l'ensemble du chantier ou pour les chantiers à venir ? Vous avez effectué un quart d'heure sécurité pour sensibiliser vos collaborateurs ?\nPensez à les partager aussi !";
+"construction_activity_less_than_one_minute"="Il y a moins d'une minute";
+"construction_activity_between_one_and_two_minutes"="Il y a une minute";
+"construction_activity_between_two_and_three_minutes"="Il y a 2 minutes";
+"construction_activity_between_60_and_120_minutes"="Il y a une heure";
+"construction_activity_between_120_and_180_minutes"="Il y a 2 heures";
+"construction_activity_between_one_and_two_days"="Il y a un jour";
+"construction_activity_between_two_and_three_days"="Il y a 2 jours";
+"construction_activity_one_week"="Il y a une semaine";
+"construction_activity_two_weeks"="Il y a 2 semaines";
+"construction_activity_one_month"="Il y a un mois";
+"construction_activity_two_months"="Il y a 2 mois";
+"construction_activity_one_year"="Il y a un an";
+"construction_activity_more_than_year"="Il y a plus d'un an";
+"construction_activity_no_item"="Pas d'activité récente sur ce chantier";
+
+//LOGIN_SCREEN
+"login_title"="Ajouter un nouvel utilisateur";
+"login_input_email_hint"="Adresse Email";
+"login_input_pasword_hint"="Mot de passe";
+"login_forgot_password"="Mot de passe oublié ?";
+"login_other_user"="Se connecter avec un autre compte";
+"login_login"="Se connecter";
+"login_emergency"="En cas d'accident";
+"login_error_email_or_password_not_fill"="S'il vous plaît fournir des e-mail et mot de passe";
+"login_error_email_format_incorrect"="Vérifiez votre saisie ou créér un compte";
+"login_error_pass_format_incorrect"="";
+"login_error_pass_or_email_authentication"="L'e-mail et / ou mot de passe saisi ne sont pas reconnues. Merci de vérifier votre entrée";
+
+//HOME_SCREEN
+"home_tv_company_name"="Nom de I'entreprise";
+"home_tv_business_news"="Quoi de neuf ?";
+"home_tv_charge_prevention"="Chargé(s) \nde prévention";
+"home_tv_dialog_changer_prevention"="Chargé(s) de prévention";
+"home_tv_document"="Mon classeur prévention";
+"home_tv_company_news"="Suivre les actus OPPBTP";
+"home_tv_infomation"="Animer la prévention";
+"home_bt_addnew"="Ajouter un chantier";
+"home_tv_dialog_changer_company"="Changer d'entreprise";
+"home_tv_title_add_project"="Création d'un chantier";
+"home_tv_title_description_add_project"="Les champs marqués d'un astérisque (*) sont obligatoires.";
+
+//FORGOT_PASSWORD_SCREEN
+"forgot_password_title"="Mot de passe oublié ?";
+"forgot_password_description"="Indiquez I'adresse e-mail correspondant à votre\ncompte, un e-mail vous sera envoyé pour\nre-créer votre mot de passe :";
+"forgot_password_input_email_hint"="Adresse Email";
+"forgot_password_email_error"="";
+"forgot_password_send"="ENVOYER";
+"forgot_password_complete_description"="MERCI !\nUn e-mail automatique vient de vous être envoyé.\nCliquez sur le lien contenu dans I'e-mail pour\nréinitialiser votre mot de passe.";
+"forgot_password_back"="REVENIR À LA PAGE DE CONNEXION";
+"forgot_password_error_email_not_fill"="S'il vous plaît fournir des e-mail";
+"forgot_password_error_email_format_incorrect"="Vérifiez votre saisie ou créér un compte";
+"forgot_password_error_email_authentication"="";
+"forgot_password_email_reset_success"="";
+
+//CREATE_SITE_SCREEN
+"create_site_tv_title"="Création d'un chantier";
+"create_site_tv_description"="Les champs marqués d'un astérisque sont obligatoires";
+"create_site_tv_site_name"="Nom du chantier*";
+"create_site_tv_reference"="Référence";
+"create_site_tv_postal_code"="Code postal";
+"create_stie_tv_city"="Ville";
+"create_site_tv_date"="Date de début*";
+"create_site_btn_create"="Créer le chantier";
+"create_site_tv_error_project_name"="S'il vous plaît entrez le nom du site";
+"create_site_tv_error_start_date"="S'il vous plaît entrez la date de début de la construction";
+
+//BUSINESS_NEWS
+"business_news_company_name_default"="Nom de I'entreprise";
+"business_news_data_empty"="";
+"business_news_page_title"="Quoi de neuf ?";
+"business_news_charge_prevention"="Chargé(s) de prévention";
+
+//WELCOME_TO_SITE_SCREEN
+"welcome_tv_title"="Accueil sur le chantier";
+"welcome_tv_information_to_employee"="Vous avez accueilli des collaborateurs sur le chantier et leur avez décrit a minima :";
+"welcome_tv_condition"="les conditions de circulation dans le chantier";
+"welcome_tv_safely"="les gestes et les modes opératoires pour travailler en sécurité";
+"welcome_tv_accident"="la conduite à tenir en cas d’accident\n";
+"welcome_tv_require"="Renseignez les informations ci-dessous";
+"welcome_tv_comment"="Commentaires";
+"welcome_bt_validate"="Valider I'accueil du personnel";
+"welcome_tv_add"="Ajouter";
+"welcome_tv_selection"="Sélectionnez les collaborateurs accueillis";
+"welcome_tv_images"="Images";
+"welcome_tv_add_collaborator"="Ajouter un\ncollaborateur";
+"welcome_bt_cancle"="Annuler";
+"welcome_tv_add_image"="Ajouter un image";
+"welcome_tv_present_collaborator"="Collaborateurs présents";
+
+//SETTING
+"setting_menu_button_typical_day"="Journée-type";
+"setting_menu_button_legal_notice"="Mentions légales";
+"setting_menu_button_about"="A propos";
+"setting_typical_day_title"="Définition de la journée-type de travail";
+"setting_typical_day_text_high"="Définissez, pour chaque jour de la semaine, les heures travaillées par votre personnel comme paramètre par défaut pour le pointage.";
+"setting_typical_day_text_low"="Vous pouvez éventuellement saisir des nombres décimaux pour être plus précis.\nSi vous souhaitez indiquer une journée de 7h15, saisissez 7,25.";
+"setting_about_title"="A propos";
+"setting_legal_title"="Mentions légales";
+"setting_about_text"="";
+"setting_legal_text"="";
+"setting_typical_day_hour_work"="Heures travaillées";
+"setting_typical_day_commit_text"="Valider les modifications";
+"setting_typical_day_commit_message"="Enregistre les modifications";
+"setting_title"="Paramètres";
+"setting_button_cancel"="Annuler";
+"setting_button_confirm"="OK";
+
+//REPORT_AN_EVENT
+"construction_report_event_tv_title"="Déclarer un Événement";
+
+//PREVENTION_INFORMATION
+"prevent_info_text_opptpb"="Conseiller OPPTPB";
+"prevent_info_text_title_other_app"="La revue Prevention BTP";
+"prevent_info_text_other_app_left_title"="Maintenant en version 100% digitale";
+"prevent_info_text_other_app_left_button"="Lire dans l'application";
+"prevent_info_text_title"="Animer la prévention";
+
+//NEWS_OPPBTP
+"news_oppbtp_title"="Suivre les actus OPPBTP";
+"news_oppbtp_header_title"="Suivre les actus OPPBTP";
+
+//DETAIL_NEWS_OPPBTP
+"detail_news_oppbtp_title"="";
+
+//CORPORATE_DOCUMENT
+"corporate_document_page_title"="Documents entreprise";
+"corporate_document_list_of_document"="Document unique\net plan d'action";
+"corporate_document_dangerous"="Santé\net produits dangereux";
+"corporate_document_equipment"="Equipement\net matériel";
+"corporate_document_organization"="Organisation\net manutention";
+"corporate_document_team"="Équipe\net personnel";
+"corporate_document_other"="Autre";
+
+//PREVENTION_LIST_OF_TOPIC
+"prevention_list_of_topic_title"="Organisation de la prévention";
+
+//PREVENT_THERMATIC_DETAIL
+"prevent_detail_thermal_title"="Accueil des nouveaux arrivants";
+
+//PROFILE
+"profile_notification_title"="Notifications";
+"profile_menu_sign_out"="Se déconnecter";
+"profile_notification_no_item"="Pas de notification";
+"profile_disconnect_title"="Déconnexion";
+"profile_disconnect_content"="Etes-vous sûr de vouloir vous déconnecter ?";
+"profile_title_detail"="DETAILLE";
+"profile_title_cancel"="Annuler";
+
+//ACCIDENT
+"accident_map_choose_title"="Vous pouvez choisir un chantier pour afficher les informations particulières";
+"accident_map_choose_project_default"="Choisir un chantier";
+"accident_map_choose_company_default"="Pas d'entreprise (consignes génér";
+"accident_info_1"="Sécurisez la zone";
+"accident_info_2_1"="Appelez le Sauveteur Secouriste du Travail";
+"accident_info_2_2"="Qui, après avoir examiné la victime, vous demandera d'appeler les secours.";
+"accident_info_2_3"="S'il n'y a pas de SST présent, examinez la victime.";
+"accident_info_3"="Consignes particulières";
+"accident_info_3_no_special_requirement"="Pas de consigne particulière";
+"accident_info_4"="Appelez les secours";
+"accident_info_4_a"="Appelez le ";
+"accident_info_4_b"="Dites : \"Ici chantier...\"";
+"accident_info_4_b_choose_address"="Indiquez à votre interlocuteur l'adresse du chantier";
+"accident_info_4_c_1"="Précisez :";
+"accident_info_4_c_2"="La nature de l'accident";
+"accident_info_4_c_3"="La position du blessé";
+"accident_info_4_c_4"="S'il y a nécessité de dégagement";
+"accident_info_4_d_1"="Signalez le ";
+"accident_info_4_d_2"="nombre de blessés et leur état";
+"accident_info_4_e"="Décrivez l'intervention du secouriste s'il elle a eu lieu";
+"accident_info_4_f"="Fixez un point de RDV";
+"accident_info_4_g_1"="Faites répéter le message. ";
+"accident_info_4_g_2"="Né raccrochez jamais le premier.";
+"accident_info_footer_1"="Une fois la victime prise en charge, prévenez :";
+"accident_info_footer_2"="Le CSPS et le client";
+"accident_info_footer_3"="L'inspection du travail";
+"accident_info_footer_4"="La CARSAT (sécurité sociale)";
+"accident_info_footer_5"="L'OPPBTP";
+"accident_header_title"="Conduite à tenir en cas d'accident";
+"accident_left_title"="Numéro appel d'urgence";
+"accident_left_rescuers"="SECOURISTES";
+
+//LIST_DOCUMENT
+"list_document_header_title"="Mon classeur prévention";
+
+//PREVENTION_TOPIC
+"prevent_topic_header_title"="Animer la prévention";

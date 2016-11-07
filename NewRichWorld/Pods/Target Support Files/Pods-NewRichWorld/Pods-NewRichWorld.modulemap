@@ -1,0 +1,6 @@
+framework module Pods_NewRichWorld {
+  umbrella header "Pods-NewRichWorld-umbrella.h"
+
+  export *
+  module * { export * }
+}
