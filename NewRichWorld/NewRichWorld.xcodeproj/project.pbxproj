@@ -94,6 +94,7 @@
 		1D135C841DD0909F00D6BECC /* DLLogin.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D135C2C1DD0909F00D6BECC /* DLLogin.swift */; };
 		1D135C851DD0909F00D6BECC /* CTParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D135C2E1DD0909F00D6BECC /* CTParameters.swift */; };
 		1D135C861DD0909F00D6BECC /* DLParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D135C2F1DD0909F00D6BECC /* DLParameters.swift */; };
+		1D135C881DD0974000D6BECC /* NRWBaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D135C871DD0974000D6BECC /* NRWBaseViewController.swift */; };
 		1D8E8DCD1DD06FEB0026AD25 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D8E8DCC1DD06FEB0026AD25 /* AppDelegate.swift */; };
 		1D8E8DD21DD06FEB0026AD25 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D8E8DD01DD06FEB0026AD25 /* Main.storyboard */; };
 		1D8E8DD41DD06FEB0026AD25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D8E8DD31DD06FEB0026AD25 /* Assets.xcassets */; };
@@ -218,6 +219,7 @@
 		1D135C2C1DD0909F00D6BECC /* DLLogin.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DLLogin.swift; sourceTree = "<group>"; };
 		1D135C2E1DD0909F00D6BECC /* CTParameters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CTParameters.swift; sourceTree = "<group>"; };
 		1D135C2F1DD0909F00D6BECC /* DLParameters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DLParameters.swift; sourceTree = "<group>"; };
+		1D135C871DD0974000D6BECC /* NRWBaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NRWBaseViewController.swift; sourceTree = "<group>"; };
 		1D8E8DC91DD06FEA0026AD25 /* NewRichWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NewRichWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D8E8DCC1DD06FEB0026AD25 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1D8E8DD11DD06FEB0026AD25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -245,6 +247,7 @@
 			isa = PBXGroup;
 			children = (
 				1D135BA61DD0908D00D6BECC /* MenuViewController */,
+				1D135C871DD0974000D6BECC /* NRWBaseViewController.swift */,
 			);
 			path = Sections;
 			sourceTree = "<group>";
@@ -769,6 +772,7 @@
 				1D135C4A1DD0909F00D6BECC /* DPDUIView+Extension.swift in Sources */,
 				1D135C631DD0909F00D6BECC /* CTSiteAPI.swift in Sources */,
 				1D135C841DD0909F00D6BECC /* DLLogin.swift in Sources */,
+				1D135C881DD0974000D6BECC /* NRWBaseViewController.swift in Sources */,
 				1D135C331DD0909F00D6BECC /* NSDate.swift in Sources */,
 				1D135C821DD0909F00D6BECC /* CTUser.swift in Sources */,
 				1D135C701DD0909F00D6BECC /* CTDocumentListDownload.swift in Sources */,

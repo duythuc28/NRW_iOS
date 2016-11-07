@@ -3,5 +3,14 @@ platform :ios, '9.0'
 target 'NewRichWorld' do
   use_frameworks!
   pod 'SlideMenuControllerSwift', :git => 'https://github.com/dekatotoro/SlideMenuControllerSwift' , :branch => 'swift2.3'
-
+  # Loading Indicator View
+  pod 'NVActivityIndicatorView', :git => 'https://github.com/ninjaprox/NVActivityIndicatorView.git', :branch => 'swift2.3'
+  # For reusable cell and storyboard
+  pod 'Reusable', '~> 2.5'
+  pod 'Alamofire', :git => 'https://github.com/Alamofire/Alamofire'
+  pod 'SwiftyJSON',:git => 'https://github.com/SwiftyJSON/SwiftyJSON'
+  pod 'ObjectMapper', :git => 'https://github.com/Hearst-DD/ObjectMapper'
+  pod 'Realm', :git => 'http://github.com/realm/realm-cocoa.git', :branch => 'swift-2.0'
+  pod 'RealmSwift' , :git => 'http://github.com/realm/realm-cocoa.git', :branch => 'swift-2.0'
+  pod 'IQKeyboardManagerSwift', :git => 'https://github.com/hackiftekhar/IQKeyboardManager'
 end

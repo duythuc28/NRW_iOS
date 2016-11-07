@@ -1,22 +1,91 @@
 PODS:
+  - Alamofire (4.0.1)
+  - IQKeyboardManagerSwift (4.0.7)
+  - NVActivityIndicatorView (2.12)
+  - ObjectMapper (2.2.1)
+  - Realm (0.103.0):
+    - Realm/Headers (= 0.103.0)
+  - Realm/Headers (0.103.0)
+  - RealmSwift (0.103.0):
+    - Realm (= 0.103.0)
+  - Reusable (2.5.0):
+    - Reusable/Storyboard (= 2.5.0)
+    - Reusable/View (= 2.5.0)
+  - Reusable/Storyboard (2.5.0)
+  - Reusable/View (2.5.0)
   - SlideMenuControllerSwift (2.3.0)
+  - SwiftyJSON (3.1.1)
 
 DEPENDENCIES:
+  - Alamofire (from `https://github.com/Alamofire/Alamofire`)
+  - IQKeyboardManagerSwift (from `https://github.com/hackiftekhar/IQKeyboardManager`)
+  - NVActivityIndicatorView (from `https://github.com/ninjaprox/NVActivityIndicatorView.git`, branch `swift2.3`)
+  - ObjectMapper (from `https://github.com/Hearst-DD/ObjectMapper`)
+  - Realm (from `http://github.com/realm/realm-cocoa.git`, branch `swift-2.0`)
+  - RealmSwift (from `http://github.com/realm/realm-cocoa.git`, branch `swift-2.0`)
+  - Reusable (~> 2.5)
   - SlideMenuControllerSwift (from `https://github.com/dekatotoro/SlideMenuControllerSwift`, branch `swift2.3`)
+  - SwiftyJSON (from `https://github.com/SwiftyJSON/SwiftyJSON`)
 
 EXTERNAL SOURCES:
+  Alamofire:
+    :git: https://github.com/Alamofire/Alamofire
+  IQKeyboardManagerSwift:
+    :git: https://github.com/hackiftekhar/IQKeyboardManager
+  NVActivityIndicatorView:
+    :branch: swift2.3
+    :git: https://github.com/ninjaprox/NVActivityIndicatorView.git
+  ObjectMapper:
+    :git: https://github.com/Hearst-DD/ObjectMapper
+  Realm:
+    :branch: swift-2.0
+    :git: http://github.com/realm/realm-cocoa.git
+  RealmSwift:
+    :branch: swift-2.0
+    :git: http://github.com/realm/realm-cocoa.git
   SlideMenuControllerSwift:
     :branch: swift2.3
     :git: https://github.com/dekatotoro/SlideMenuControllerSwift
+  SwiftyJSON:
+    :git: https://github.com/SwiftyJSON/SwiftyJSON
 
 CHECKOUT OPTIONS:
+  Alamofire:
+    :commit: c71f503898cb24d56857e4e6f0ec7899a9b6fc7b
+    :git: https://github.com/Alamofire/Alamofire
+  IQKeyboardManagerSwift:
+    :commit: 60e0a57fff8548000979fa6220261fbdd979b41b
+    :git: https://github.com/hackiftekhar/IQKeyboardManager
+  NVActivityIndicatorView:
+    :commit: ac4325492550b9ec9516e3a9b6e28b2c07faa1c6
+    :git: https://github.com/ninjaprox/NVActivityIndicatorView.git
+  ObjectMapper:
+    :commit: 1e425ae5599343d3b475a7dcd08cdc8acaee037f
+    :git: https://github.com/Hearst-DD/ObjectMapper
+  Realm:
+    :commit: 4c376cfb59e2563b32be9d3cae4f0aeaff5d6271
+    :git: http://github.com/realm/realm-cocoa.git
+  RealmSwift:
+    :commit: 4c376cfb59e2563b32be9d3cae4f0aeaff5d6271
+    :git: http://github.com/realm/realm-cocoa.git
   SlideMenuControllerSwift:
     :commit: cd6d807f5ee69091e9d1301779a05f6e9a2e5173
     :git: https://github.com/dekatotoro/SlideMenuControllerSwift
+  SwiftyJSON:
+    :commit: e3a3029565afecb4b0fe356a84a026a781cde390
+    :git: https://github.com/SwiftyJSON/SwiftyJSON
 
 SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  IQKeyboardManagerSwift: 58bbcf46b5cf9fd4ed625d28a60cb2fbae4ab0f4
+  NVActivityIndicatorView: de8be03826726ad99cdfacf7fe09e88cbfeef911
+  ObjectMapper: 41e43e1a89f8060ef5ea5d04ba852e269a621d68
+  Realm: 99c44c3a9e075638478d4134e28d9026a6de07c4
+  RealmSwift: daaa1789eb581f2f8c2a05a25f463a6f70df5a5f
+  Reusable: 1775ede04719c488bb04e809d923cbb7214168b8
   SlideMenuControllerSwift: 09ef91aa30464e7e517bce2f2ecc6e323e3fe866
+  SwiftyJSON: f0be2e604f83e8405a624e9f891898bf6ed4e019
 
-PODFILE CHECKSUM: e64e5df659dd68c46366776e36a50aa8e86429fe
+PODFILE CHECKSUM: e7b328c39d49beef860744c4c92ae69a5dacea84
 
 COCOAPODS: 1.1.0.rc.2
