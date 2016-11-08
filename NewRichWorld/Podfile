@@ -7,10 +7,10 @@ target 'NewRichWorld' do
   pod 'NVActivityIndicatorView', :git => 'https://github.com/ninjaprox/NVActivityIndicatorView.git', :branch => 'swift2.3'
   # For reusable cell and storyboard
   pod 'Reusable', '~> 2.5'
-  pod 'Alamofire', :git => 'https://github.com/Alamofire/Alamofire'
-  pod 'SwiftyJSON',:git => 'https://github.com/SwiftyJSON/SwiftyJSON'
-  pod 'ObjectMapper', :git => 'https://github.com/Hearst-DD/ObjectMapper'
+  pod 'Alamofire', '~> 3.5'
+  pod 'SwiftyJSON', :git => 'https://github.com/SwiftyJSON/SwiftyJSON', :branch => 'swift2'
+  pod 'ObjectMapper', :git => 'https://github.com/Hearst-DD/ObjectMapper' ,:tag => '1.5.0'
   pod 'Realm', :git => 'http://github.com/realm/realm-cocoa.git', :branch => 'swift-2.0'
   pod 'RealmSwift' , :git => 'http://github.com/realm/realm-cocoa.git', :branch => 'swift-2.0'
-  pod 'IQKeyboardManagerSwift', :git => 'https://github.com/hackiftekhar/IQKeyboardManager'
+  pod 'IQKeyboardManagerSwift', :git => 'https://github.com/hackiftekhar/IQKeyboardManager' ,:tag => 'v4.0.0'
 end
